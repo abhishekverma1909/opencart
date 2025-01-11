@@ -1,215 +1,69 @@
-2024-12-25 20:59:05 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
+2025-01-11 10:57:03 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\opencart\gride-docker.xml
 
-2024-12-25 22:02:52 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
+2025-01-11 11:12:59 INFO  Utils:112 - [TestNG] Running:
+  D:\Selenium\opencart\gride-docker.xml
 
-2024-12-25 22:05:23 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:06:15 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:11:27 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:11:33 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 22:11:34 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 22:11:35 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 22:11:36 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 22:11:39 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 22:11:40 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 22:11:42 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 22:11:42 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 22:11:42 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 22:14:54 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:16:05 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:18:01 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:21:19 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:22:07 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:27:08 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:27:12 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 22:27:13 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 22:27:14 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 22:27:17 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 22:27:18 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 22:27:19 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 22:27:19 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 22:29:03 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:39:17 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:46:54 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:54:02 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:55:00 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:56:11 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 22:58:20 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:03:46 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:09:10 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:16:08 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:18:30 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:19:27 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:20:49 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:22:07 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:22:12 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:22:12 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:22:13 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:22:13 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:22:16 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:22:17 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:22:18 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:22:18 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:22:18 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:22:54 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:22:58 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:22:58 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:22:59 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:22:59 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:23:02 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:23:02 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:23:04 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:23:04 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:23:04 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:25:22 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:25:25 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:25:26 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:25:27 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:25:27 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:25:29 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:25:30 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:25:31 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:25:32 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:25:32 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:26:12 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:27:06 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:28:08 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:28:11 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:28:11 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:28:12 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:28:12 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:28:15 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:28:16 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:28:17 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:28:17 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:28:17 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:30:52 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:33:57 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:39:46 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:43:42 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:43:45 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:43:46 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:43:47 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:43:47 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:43:50 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:43:51 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:43:52 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:43:52 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:43:52 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:44:15 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:44:17 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:44:18 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:44:19 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:44:19 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:44:22 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:44:22 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:44:24 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:44:24 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:44:24 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:44:49 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\master.xml
-
-2024-12-25 23:44:52 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
-2024-12-25 23:44:53 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
-2024-12-25 23:44:54 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
-2024-12-25 23:44:54 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
-2024-12-25 23:44:56 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:44:57 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
-2024-12-25 23:45:01 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
-2024-12-25 23:45:01 INFO  TC_001_AccountRegistration:41 - Test case Pass
-2024-12-25 23:45:01 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:46:16 INFO  Utils:112 - [TestNG] Running:
-  D:\Selenium\opencart\crossbrowsertesting.xml
-
-2024-12-25 23:46:16 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:46:16 ERROR TC_001_AccountRegistration:45 - Test Case failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2024-12-25 23:46:16 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:46:20 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:46:21 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
-2024-12-25 23:46:32 ERROR TC_001_AccountRegistration:45 - Test Case failedelement not interactable
-  (Session info: MicrosoftEdge=131.0.2903.112)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [267991935c1874b7b4d107e29fd7907c, clickElement {id=f.2F7601721BC71FE98E1445E823EEBA3A.d.392A6CF2C6E6196A8CC092576119925F.e.112}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.112, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49352}, msedge: {msedgedriverVersion: 131.0.2903.112 (16ab910a6e7..., userDataDir: C:\Users\abhis\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.252.170:4444/s..., se:cdpVersion: 131.0.2903.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (267991935c1874b7b4d107e29fd7907c)] -> xpath: //a[normalize-space()='Register']]
-Session ID: 267991935c1874b7b4d107e29fd7907c
-2024-12-25 23:46:32 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
-2024-12-25 23:46:42 ERROR TC_001_AccountRegistration:45 - Test Case failedelement not interactable
-  (Session info: MicrosoftEdge=131.0.2903.112)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [267991935c1874b7b4d107e29fd7907c, clickElement {id=f.2F7601721BC71FE98E1445E823EEBA3A.d.392A6CF2C6E6196A8CC092576119925F.e.112}]
-Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.112, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49352}, msedge: {msedgedriverVersion: 131.0.2903.112 (16ab910a6e7..., userDataDir: C:\Users\abhis\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.252.170:4444/s..., se:cdpVersion: 131.0.2903.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (267991935c1874b7b4d107e29fd7907c)] -> xpath: //a[normalize-space()='Register']]
-Session ID: 267991935c1874b7b4d107e29fd7907c
-2024-12-25 23:46:42 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:13:06 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 11:13:07 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 11:13:09 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 11:13:09 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 11:13:09 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:13:12 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 11:13:13 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 11:13:14 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 11:13:14 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 11:13:25 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 11:13:26 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 11:13:27 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 11:13:27 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 11:13:27 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:13:35 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 11:13:35 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 11:13:37 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 11:13:37 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 11:47:44 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 11:47:44 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 11:47:46 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 11:47:46 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 11:47:49 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 11:47:50 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 11:47:53 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 11:47:53 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 11:47:53 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:48:50 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 11:48:51 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 11:48:52 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 11:48:52 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 11:48:55 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 11:48:56 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 11:48:58 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 11:48:58 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 11:48:58 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:49:03 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 11:49:03 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 11:49:05 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 11:49:05 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 11:49:05 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 11:49:09 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 11:49:09 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 11:49:10 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 11:49:11 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 12:38:55 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 12:38:56 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 12:38:57 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 12:38:57 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
+2025-01-11 12:38:59 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 12:39:00 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 12:39:02 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 12:39:02 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 12:39:02 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 12:39:06 INFO  TC_001_AccountRegistration:17 - *****Test Case Started*******
+2025-01-11 12:39:07 INFO  TC_001_AccountRegistration:23 - Clicked on Registration link
+2025-01-11 12:39:09 INFO  TC_001_AccountRegistration:37 - Clicked on continue button
+2025-01-11 12:39:09 INFO  TC_001_AccountRegistration:41 - Test case Pass
+2025-01-11 12:39:09 INFO  TC_001_AccountRegistration:49 - Text case completed Successfully
+2025-01-11 12:39:12 INFO  TC_002_LoginTest:20 - *****Login Tets Started*****
+2025-01-11 12:39:12 INFO  TC_002_LoginTest:25 - ***Entering Login Detais***
+2025-01-11 12:39:14 INFO  TC_002_LoginTest:31 - ***Validating MyAccount Heading***
+2025-01-11 12:39:14 INFO  TC_002_LoginTest:43 - ***Test Case Completed****
